@@ -52,6 +52,9 @@ ggplot(veggy, aes(x = Cult, y = VitC)) +
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
 
 ## Inferential Results
 
