@@ -62,7 +62,10 @@ favstats(VitC~Cult,data=veggy)
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
-
+```{r}
+t.test(VitC~Cult,data=veggy)
+```
+  The probability of getting a result as we just obtain is .000000003405, which is a small number. Which is the result of what we got. Comparing C39 and C52, the vitamin is so low. It is possible that it might happen but it is very low probability. The hypothesis is to be rejected. The method is difference.
 
 # Discussion and Conclusion
 
