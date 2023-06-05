@@ -70,3 +70,5 @@ t.test(VitC~Cult,data=veggy)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+  
+  Throughout this exercise, I explored making a plot making numerical result, did a T-test and made a conclusion about the data I found. I utilized R studio to make a visual representation and description of my data. I can confidently say that there is statistically difference in average VitC levels between the "C39" and "C52" cultivation methods with the information above to back it up.
