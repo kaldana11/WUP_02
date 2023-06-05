@@ -46,7 +46,9 @@ ggplot(veggy, aes(x = Cult, y = VitC)) +
   ggtitle("Box Plot of VitC by Cult") +
   theme(plot.title = element_text(hjust = 0.5, size = 16))
 ```
-
+ 
+ If you look at the two boxes on the box plot, the major box is above the lower one. The middle 50% of the method of higher box is quite a bit different between C39 and C52. These are complete apart from each other. We think we will find a statistical difference within these 2 methods.
+ 
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
